@@ -1,8 +1,5 @@
 import React from 'react'
 import { ListGroupItem } from 'reactstrap'
-import potos from '../data/dataArticle';
-
-const poto = potos[0]
 
 const Article = (poto) => 
 <ListGroupItem>
