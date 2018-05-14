@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<li
+  className="list-group-item"
+>
+  <img
+    alt="zizou"
+    src="http://s1.lprs1.fr/images/2017/06/03/7012632_5zo93jxa_300x188.jpg"
+  />
+</li>
+`;
