@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly in html 1`] = `
+<li
+  className="list-group-item"
+>
+  <img
+    alt="ronaldo"
+    src="https://www.lexpress.mu/sites/lexpress/files/images/article/2017/2017-01/2017-01-08/000_jo6fk.jpg"
+  />
+</li>
+`;
