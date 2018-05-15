@@ -37,7 +37,6 @@ class Panier extends Component {
     render() {
         return <Container>
             <ListArticle articles={this.state.articles}/>
-            <Button />
         </Container>
     }
 }

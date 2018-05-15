@@ -180,10 +180,5 @@ exports[`renders Panier html 1`] = `
       </div>
     </li>
   </ul>
-  <button
-    className="btn btn-secondary"
-    onClick={[Function]}
-    type={undefined}
-  />
 </div>
 `;
